@@ -1,0 +1,5 @@
+﻿부품,STL파일,출력배치Xmm,출력배치Ymm,출력배치Zmm,수량,축척,채움요청%,주의
+SCMB-G01-L,print/bed_ready/SCMB-G01-L-BED.stl,180.0,162.0,196.0,1,100%,100,한 부품씩 출력 / 서포트·프린터프로필 검토
+SCMB-G03-L,print/bed_ready/SCMB-G03-L-BED.stl,176.0,105.0,41.43,1,100%,100,한 부품씩 출력 / 서포트·프린터프로필 검토
+SCMB-G01-R,print/bed_ready/SCMB-G01-R-BED.stl,180.0,162.0,196.0,1,100%,100,한 부품씩 출력 / 서포트·프린터프로필 검토
+SCMB-G03-R,print/bed_ready/SCMB-G03-R-BED.stl,176.0,105.0,41.43,1,100%,100,한 부품씩 출력 / 서포트·프린터프로필 검토

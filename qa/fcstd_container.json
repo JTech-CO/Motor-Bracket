@@ -1,0 +1,119 @@
+[
+  {
+    "file": "cad/freecad/SCMB-G01-L.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G03-L.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G10-L.FCStd",
+    "objects": 12,
+    "solids": 12,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G20-L-MOTOR-DEMO.FCStd",
+    "objects": 17,
+    "solids": 17,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G01-R.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G03-R.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G10-R.FCStd",
+    "objects": 12,
+    "solids": 12,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G20-R-MOTOR-DEMO.FCStd",
+    "objects": 17,
+    "solids": 17,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/00-CAD-TEST-CUBE.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G02-M6.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G02-M8.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G05-PIN.FCStd",
+    "objects": 1,
+    "solids": 1,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  },
+  {
+    "file": "cad/freecad/SCMB-G00-PAIR-DEMO.FCStd",
+    "objects": 34,
+    "solids": 34,
+    "brep_version": 1,
+    "xml_zip_and_brep_checked": true,
+    "native_app_saved": false,
+    "native_app_open_test": false
+  }
+]

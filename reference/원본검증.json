@@ -1,0 +1,20 @@
+[
+  {
+    "file": "MY1016Z Detailed Reference 2.pdf",
+    "sha256": "cf90a33c714d2b9f93bfebdd6ca4933fd93b2069d0d7d88e886daacecd63e92b",
+    "bytes": 2050742,
+    "handling": "원문 무변경 보존 / 최신 3개 첨부자료"
+  },
+  {
+    "file": "MY1016Z Detailed Reference Image.png",
+    "sha256": "4c719699409bd0e4ea458effa884937f2cb0e9bb15d5f530bb19f8cdc7f26b49",
+    "bytes": 651448,
+    "handling": "원문 무변경 보존 / 최신 3개 첨부자료"
+  },
+  {
+    "file": "MY1016Z Detailed Reference 1.pdf",
+    "sha256": "7d9c5a6c6a14b73202622a2e451bfb37ce8a383b32d9eb17215f03dc3c08e80d",
+    "bytes": 10131650,
+    "handling": "원문 무변경 보존 / 최신 3개 첨부자료"
+  }
+]

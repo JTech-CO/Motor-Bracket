@@ -1,0 +1,106 @@
+[
+  {
+    "name": "SCMB-G01-L",
+    "label": "L ㄷ자 본체",
+    "brep": "cad/brep/SCMB-G01-L.brep",
+    "step": "cad/step/SCMB-G01-L.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 1125305.3510106443
+  },
+  {
+    "name": "SCMB-G03-L",
+    "label": "L 탈착 받침",
+    "brep": "cad/brep/SCMB-G03-L.brep",
+    "step": "cad/step/SCMB-G03-L.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 106159.90098680946
+  },
+  {
+    "name": "SCMB-G10-L",
+    "label": "SCMB-G10-L / 검토조립",
+    "brep": "cad/brep/SCMB-G10-L.brep",
+    "step": "cad/step/SCMB-G10-L.step",
+    "expected_solids": 12,
+    "expected_volume_mm3": 1236145.2219442572
+  },
+  {
+    "name": "SCMB-G20-L-MOTOR-DEMO",
+    "label": "SCMB-G20-L-MOTOR-DEMO / 검토조립",
+    "brep": "cad/brep/SCMB-G20-L-MOTOR-DEMO.brep",
+    "step": "cad/step/SCMB-G20-L-MOTOR-DEMO.step",
+    "expected_solids": 17,
+    "expected_volume_mm3": 2346857.411740831
+  },
+  {
+    "name": "SCMB-G01-R",
+    "label": "R ㄷ자 본체",
+    "brep": "cad/brep/SCMB-G01-R.brep",
+    "step": "cad/step/SCMB-G01-R.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 1125305.3510006014
+  },
+  {
+    "name": "SCMB-G03-R",
+    "label": "R 탈착 받침",
+    "brep": "cad/brep/SCMB-G03-R.brep",
+    "step": "cad/step/SCMB-G03-R.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 106159.90098680946
+  },
+  {
+    "name": "SCMB-G10-R",
+    "label": "SCMB-G10-R / 검토조립",
+    "brep": "cad/brep/SCMB-G10-R.brep",
+    "step": "cad/step/SCMB-G10-R.step",
+    "expected_solids": 12,
+    "expected_volume_mm3": 1236145.221938122
+  },
+  {
+    "name": "SCMB-G20-R-MOTOR-DEMO",
+    "label": "SCMB-G20-R-MOTOR-DEMO / 검토조립",
+    "brep": "cad/brep/SCMB-G20-R-MOTOR-DEMO.brep",
+    "step": "cad/step/SCMB-G20-R-MOTOR-DEMO.step",
+    "expected_solids": 17,
+    "expected_volume_mm3": 2346857.411735131
+  },
+  {
+    "name": "00-CAD-TEST-CUBE",
+    "label": "10mm 진단 큐브",
+    "brep": "cad/brep/00-CAD-TEST-CUBE.brep",
+    "step": "cad/step/00-CAD-TEST-CUBE.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 999.9999999999998
+  },
+  {
+    "name": "SCMB-G02-M6",
+    "label": "M6 금속 슬리브 / 길이 검토",
+    "brep": "cad/brep/SCMB-G02-M6.brep",
+    "step": "cad/step/SCMB-G02-M6.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 394.51806384515265
+  },
+  {
+    "name": "SCMB-G02-M8",
+    "label": "M8 금속 슬리브 / 길이 검토",
+    "brep": "cad/brep/SCMB-G02-M8.brep",
+    "step": "cad/step/SCMB-G02-M8.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 588.8130030990671
+  },
+  {
+    "name": "SCMB-G05-PIN",
+    "label": "매립식 금속 잠금핀 / 공급품 확인",
+    "brep": "cad/brep/SCMB-G05-PIN.brep",
+    "step": "cad/step/SCMB-G05-PIN.step",
+    "expected_solids": 1,
+    "expected_volume_mm3": 373.3236288564394
+  },
+  {
+    "name": "SCMB-G00-PAIR-DEMO",
+    "label": "SCMB-G00-PAIR-DEMO / 검토조립",
+    "brep": "cad/brep/SCMB-G00-PAIR-DEMO.brep",
+    "step": "cad/step/SCMB-G00-PAIR-DEMO.step",
+    "expected_solids": 34,
+    "expected_volume_mm3": 4693714.83716365
+  }
+]

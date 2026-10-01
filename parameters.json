@@ -1,0 +1,266 @@
+{
+  "revision": "G",
+  "version": "0.7.0",
+  "units": "mm",
+  "status": "200 mm 프린터용 외형 폭 조정 / 실측·슬라이싱·실물 하중 운행 승인 전",
+  "coordinate_system": "부품: X=출력축 정면 오른쪽, Y=모터 안쪽, Z=위. 출력축 O=(0,0,0), 모터 귀 접촉면 Y=0. 조립: X=진행방향, Y=왼쪽, Z=위.",
+  "shell": {
+    "width": 196.0,
+    "depth_inboard": 144.0,
+    "face_thickness": 18.0,
+    "top_thickness": 16.0,
+    "bottom_thickness": 12.0,
+    "outer_top_z": 100.0,
+    "outer_bottom_z": -80.0,
+    "root_radius": 10.0,
+    "edge_radius": 1.5,
+    "rib_thickness": 8.0,
+    "rib_depth": 132.0,
+    "bore_diameter": 54.0,
+    "face_recess_diameter": 84.0,
+    "face_recess_depth": 4.0,
+    "seat_outer_diameter": 26.0,
+    "face_window_width": 38.0,
+    "face_window_height": 32.0,
+    "face_window_radius": 5.0,
+    "face_window_centers": [
+      [
+        70,
+        56
+      ],
+      [
+        -70,
+        56
+      ],
+      [
+        70,
+        -48
+      ],
+      [
+        -70,
+        -48
+      ]
+    ],
+    "roof_window_width": 154.0,
+    "roof_window_depth": 88.0,
+    "roof_window_center": [
+      0.0,
+      74.0
+    ],
+    "floor_window_width": 154.0,
+    "floor_window_depth": 110.0,
+    "floor_window_center": [
+      0.0,
+      74.0
+    ],
+    "rib_window_radius": 4.0,
+    "edge_column_depth": 28.0,
+    "edge_column_width": 12.0
+  },
+  "frame": {
+    "pitch_x": 90.0,
+    "pitch_y": 100.0,
+    "holes_xy": [
+      [
+        -45,
+        24
+      ],
+      [
+        45,
+        24
+      ],
+      [
+        -45,
+        124
+      ],
+      [
+        45,
+        124
+      ]
+    ],
+    "bolt_thread": "M8x1.25",
+    "bolt_length": 40.0,
+    "quantity_each": 4,
+    "chassis_thickness_approx": 5.0,
+    "sleeve_id": 9.0,
+    "sleeve_od": 12.0,
+    "sleeve_host_bore": 12.2,
+    "sleeve_length_example": 11.9,
+    "washer_od": 24.0,
+    "washer_id": 8.4,
+    "washer_thickness": 2.0,
+    "nut_height_example": 8.0,
+    "min_protrusion_pitch_example": 2.0,
+    "backplate_thickness_example": 0.0,
+    "grip_at_bolt": 12.0,
+    "counterbore_diameter": 28.0,
+    "bolt_insert_direction": "브래킷 아래쪽에서 위로. M8 머리/와셔는 하면 깊이 4 mm 카운터보어, 너트는 차체 위쪽. 실제 접근 확인."
+  },
+  "motor": {
+    "holes_source_uv": [
+      [
+        -24.5,
+        42.5
+      ],
+      [
+        2.0,
+        55.0
+      ],
+      [
+        54.7,
+        2.0
+      ],
+      [
+        41.8,
+        -24.5
+      ]
+    ],
+    "source_mount_bore_diameter": 6.5,
+    "bolt_thread": "M6x1",
+    "bolt_length": 30.0,
+    "quantity_each": 4,
+    "grip_at_bolt": 9.0,
+    "counterbore_diameter": 22.0,
+    "sleeve_id": 6.6,
+    "sleeve_od": 10.0,
+    "sleeve_host_bore": 10.2,
+    "sleeve_length_example": 8.9,
+    "washer_od": 18.0,
+    "washer_id": 6.4,
+    "washer_thickness": 1.6,
+    "nut_height_example": 6.0,
+    "ear_thickness_example": 8.0,
+    "shaft_diameter_source": 17.0,
+    "mass_user_kg": 3.0,
+    "clocking_deg": {
+      "L": -45.0,
+      "R": 135.0
+    },
+    "clocking_policy": "두 모터의 상대 180도는 유지. 몸통 편심의 수직 성분을 0으로 하는 수평 편심 배치. -45/135도는 기존 대리 편심(-28,-28)에 대한 설계값이며, 실측 E02 입력 시 자동 재계산."
+  },
+  "fit": {
+    "can_diameter_source": 102.0,
+    "can_axis_offset_uv_DEMO": [
+      -28.0,
+      -28.0
+    ],
+    "can_y_start_DEMO": 30.0,
+    "can_y_end_DEMO": 118.0,
+    "rear_end_y_DEMO": 128.0,
+    "shaft_projection_from_pad_DEMO": 44.0,
+    "boss_diameter_DEMO": 48.0,
+    "boss_projection_DEMO": 8.0,
+    "saddle_radial_gap_DEMO": 0.4,
+    "saddle_contact_shim_example": 0.4,
+    "saddle_x_half_width": 44.0,
+    "saddle_top_relative_to_can_center": -24.0,
+    "saddle_stations_y": [
+      42.0,
+      106.0
+    ],
+    "saddle_axial_width": 18.0,
+    "support_contact_authorization": "모터 캔 하중 지지 가능 구역 실측·제조사 확인 대기. 리브·브러시캡 지지 금지."
+  },
+  "assembly": {
+    "pad_plane_separation_DEMO": 500.0,
+    "wheel_radius_DEMO": 101.6,
+    "wheel_center_outboard_DEMO": 60.0,
+    "required_ground_clearance_example": 20.0,
+    "motor_insertion_direction_local": [
+      0,
+      -1,
+      0
+    ],
+    "wheel_diameter_user": 203.2,
+    "wheel_radius_loaded_measured": null
+  },
+  "analysis": {
+    "E_MPa": 1622.0,
+    "nu_assumption": 0.35,
+    "density_kg_mm3": 1.06e-06,
+    "material_interpretation": "PA12-CF10 젖음 조건 Z방향 대표 탄성계수를 전방향에 적용한 등방성 비교모형. 정규 직교이방성 모델·강도 보증 아님.",
+    "cart_max_mass_kg_assumption": 18.0,
+    "gravity": 9.81,
+    "impact_multiplier_assumption": 3.0,
+    "torque_screen_Nm": 40,
+    "temperature_and_creep_model": "미적용",
+    "approach": "Rev G 구조 FEA 미실시. Rev E/F 결과로 새 형상의 하중 승인·안전율을 대신하지 않음.",
+    "contact_assumption": "본체·탈착 새들 접촉면을 완전결합으로 이상화한 전역 비교해석. 실제 분리/미끄럼/핀/금속 슬리브/예압/간극/라이너는 모델링하지 않음. 실제 조립의 강성 하한 또는 안전율로 해석 금지."
+  },
+  "evidence": {
+    "frame_pitch_and_bolts": "사용자 지정: 90×100 / 차체 M8×40 4개 / 모터 M6×30 4개",
+    "motor_holes": "첨부 PDF 1·2의 2쪽 공급원 명목값 [S]; 실제 모터 실측값 아님",
+    "motor_clocking": "Rev F 설치 선택: 기존 상대180도 유지, 두 모터를 함께 기울여 몸통 편심을 수평으로 배치. 실물 편심 및 케이블 접근 검토 전.",
+    "all_fit_DEMO": "출력축-캔 편심·캔 길이·보스·귀 두께·축 돌출 모두 아직 실측 없음. DEMO값은 명시적 설계 대리치.",
+    "released_for_printed_load_service": false,
+    "wheel": "사용자 지정 8인치 = 명목203.2mm. 실물 외경·하중 반경 미확인. 이전250mm 대리 휠 폐기.",
+    "printer_limit": "사용자 지정 학교 3D 프린터 200×200×200 mm. 본체 196×162×180 mm로 변경, 전체 축소 금지.",
+    "upstream_commit": "4792da580a78f302c24412488b0d653e7083863d"
+  },
+  "cassette": {
+    "strategy": "모터를 먼저 본체에 삽입한 뒤, 별도 하부 새들을 뒤에서 삽입. 좌우 각각 다른 내부 받침, 외부 ㄷ자 본체 공통 외곽.",
+    "base_z": -68.0,
+    "rail_inner_x": 76.0,
+    "rail_outer_x": 88.0,
+    "rail_top_z": -61.2,
+    "rail_front_y": 33.0,
+    "rail_rear_y": 138.0,
+    "guide_clearance_side": 0.4,
+    "guide_cap_clearance": 0.7,
+    "pin_centers_xy": [
+      [
+        -82.0,
+        132.0
+      ],
+      [
+        82.0,
+        132.0
+      ]
+    ],
+    "pin_bore": 4.2,
+    "pin_diameter": 4.0,
+    "pin_length_example": 24.0,
+    "pins_each": 2,
+    "pin_retention": "아래에서 넣는 무나사 잠금핀. 머리는 바닥의 깊이 2.2mm 포켓에 매립하여 지면 쪽 돌출을 없앰. 상부 R클립 규격·공간은 실측 승인 필요.",
+    "sliding_gap_status": "치수는 출력 공정별 보정 쿠폰으로 확정. 100% infill도 실제 밀도·등방성 보장 아님.",
+    "pin_insert_direction": "아래에서 위로 삽입: 핀 머리는 본체 바닥 아래, 분할핀/R클립은 새들 위쪽. 본체 밑으로 긴 몸통을 내밀지 않음.",
+    "pin_head_height_example": 2.0,
+    "pin_head_diameter_example": 7.0,
+    "pin_cross_bore_example": 1.3,
+    "pin_head_recess_depth": 2.2
+  },
+  "manufacturing": {
+    "printer_build_volume_mm": [
+      200.0,
+      200.0,
+      200.0
+    ],
+    "nominal_single_body_envelope_mm": [
+      196.0,
+      162.0,
+      180.0
+    ],
+    "body_bed_rotation_y_deg": 90.0,
+    "nominal_bed_body_envelope_mm": [
+      180.0,
+      162.0,
+      196.0
+    ],
+    "example_brim_width_mm": 5.0,
+    "example_body_bed_envelope_with_brim_mm": [
+      190.0,
+      172.0,
+      196.0
+    ],
+    "bed_center_xy_mm": [
+      100.0,
+      100.0
+    ],
+    "scale_factor": 1.0,
+    "one_body_per_job": true,
+    "infill_percent_request": 100,
+    "slice_validation_status": "학교 프린터/노즐/재료 프로필 미제공. 실제 슬라이싱·G-code·서포트 경로 미검증. 5 mm 브림은 공간 계산 예시이며 접착 보증 아님.",
+    "orientation_status": "본체를 측면으로 눕힌 체적 배치. 서포트와 층간강도는 학교 프로필로 검토. 받침은 별도 출력.",
+    "physical_fit_status": "모터 DEMO 형상 기반: 실물 편심 E02·외경 D01·돌출·배선·상판 공간 재확인."
+  }
+}

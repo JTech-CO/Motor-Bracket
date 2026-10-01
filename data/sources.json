@@ -1,0 +1,42 @@
+[
+  {
+    "항목": "Rev G 기준 저장소",
+    "url": "https://github.com/JTech-CO/Motor-Bracket/tree/4792da580a78f302c24412488b0d653e7083863d",
+    "용도": "실시간 확인한 Rev F parameters.json 및 geometry.py. 로컬 geometry.py Git blob SHA d632b452b0e612f38da3f5e505f1f6ef6a1b4ba2 일치."
+  },
+  {
+    "항목": "기준 저장소",
+    "url": "https://github.com/JTech-CO/Motor-Bracket/tree/9f3711340509f9b50c7b414431f4604c0b63bd85",
+    "용도": "Rev E 입력·손포장 스크립트 확인"
+  },
+  {
+    "항목": "FreeCAD 파일 구조",
+    "url": "https://github.com/FreeCAD/FreeCAD-documentation/blob/main/wiki/File_Format_FCStd.md",
+    "용도": "FCStd XML/BREP 구조"
+  },
+  {
+    "항목": "FreeCAD 문서 복원 소스",
+    "url": "https://github.com/FreeCAD/FreeCAD/blob/1.0.2/src/App/Document.cpp",
+    "용도": "메타데이터 및 객체 복원"
+  },
+  {
+    "항목": "OCCT BREP 형식",
+    "url": "https://dev.opencascade.org/doc/overview/html/specification__brep_format.html",
+    "용도": "ASCII V1/V2/V3 구분"
+  },
+  {
+    "항목": "SolidWorks STEP 가져오기",
+    "url": "https://help.solidworks.com/2024/English/SolidWorks/Sldworks/t_reading_step_iges_acis_sw.htm",
+    "용도": "가져오기·진단 절차; 버전별 UI 확인"
+  },
+  {
+    "항목": "원본 사용자 참조",
+    "url": "../reference/",
+    "용도": "PDF2개와 PNG1개; 미실측 사항의 근거"
+  },
+  {
+    "항목": "출력 브림 안내",
+    "url": "https://help.prusa3d.com/article/skirt-and-brim_133969",
+    "용도": "브림 폭은 별도 지정하는 첫 레이어 접착 면적. 5 mm는 이번 공간검사 예시로 설계자가 선택한 값."
+  }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.FCStd1
+native_generated/
+
+LOCAL_FILE_CHECK.json

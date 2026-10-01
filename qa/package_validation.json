@@ -1,0 +1,454 @@
+{
+  "구조_형상검사": [
+    {
+      "file": "cad/step/SCMB-G01-L.step",
+      "solids": 1,
+      "volume_mm3": 1125305.3511237577,
+      "relative_error": 1.0051788835541198e-10,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G01-L.step",
+      "solids": 1,
+      "volume_mm3": 1125305.3511237577,
+      "relative_error": 1.0051788835541198e-10,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G01-L.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 1125305.3510106422,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G03-L.step",
+      "solids": 1,
+      "volume_mm3": 106159.90098679643,
+      "relative_error": 1.2268251956081404e-13,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G03-L.step",
+      "solids": 1,
+      "volume_mm3": 106159.90098679643,
+      "relative_error": 1.2268251956081404e-13,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G03-L.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 106159.90098680949,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G10-L.step",
+      "solids": 12,
+      "volume_mm3": 1236145.2220134987,
+      "relative_error": 5.6014053921042195e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G10-L.step",
+      "solids": 12,
+      "volume_mm3": 1236145.2220134987,
+      "relative_error": 5.6014053921042195e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G10-L.FCStd",
+      "solids": 12,
+      "objects": 12,
+      "volume_mm3": 1236145.223522941,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G20-L-MOTOR-DEMO.step",
+      "solids": 17,
+      "volume_mm3": 2346857.411840673,
+      "relative_error": 4.2542836412164116e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G20-L-MOTOR-DEMO.step",
+      "solids": 17,
+      "volume_mm3": 2346857.411840673,
+      "relative_error": 4.2542836412164116e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G20-L-MOTOR-DEMO.FCStd",
+      "solids": 17,
+      "objects": 17,
+      "volume_mm3": 2346857.4134900975,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G01-R.step",
+      "solids": 1,
+      "volume_mm3": 1125305.3510860393,
+      "relative_error": 7.59241952459824e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G01-R.step",
+      "solids": 1,
+      "volume_mm3": 1125305.3510860393,
+      "relative_error": 7.59241952459824e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G01-R.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 1125305.3510005989,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G03-R.step",
+      "solids": 1,
+      "volume_mm3": 106159.90098681278,
+      "relative_error": 3.125320051381631e-14,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G03-R.step",
+      "solids": 1,
+      "volume_mm3": 106159.90098681278,
+      "relative_error": 3.125320051381631e-14,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G03-R.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 106159.90098680947,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G10-R.step",
+      "solids": 12,
+      "volume_mm3": 1236145.2219879199,
+      "relative_error": 4.0284763619126276e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G10-R.step",
+      "solids": 12,
+      "volume_mm3": 1236145.2219879199,
+      "relative_error": 4.0284763619126276e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G10-R.FCStd",
+      "solids": 12,
+      "objects": 12,
+      "volume_mm3": 1236145.2235128977,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G20-R-MOTOR-DEMO.step",
+      "solids": 17,
+      "volume_mm3": 2346857.411779207,
+      "relative_error": 1.8780961130038154e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G20-R-MOTOR-DEMO.step",
+      "solids": 17,
+      "volume_mm3": 2346857.411779207,
+      "relative_error": 1.8780961130038154e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G20-R-MOTOR-DEMO.FCStd",
+      "solids": 17,
+      "objects": 17,
+      "volume_mm3": 2346857.413480054,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/00-CAD-TEST-CUBE.step",
+      "solids": 1,
+      "volume_mm3": 999.9999999999998,
+      "relative_error": 0.0,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/00-CAD-TEST-CUBE.step",
+      "solids": 1,
+      "volume_mm3": 999.9999999999998,
+      "relative_error": 0.0,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/00-CAD-TEST-CUBE.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 999.9999999999998,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G02-M6.step",
+      "solids": 1,
+      "volume_mm3": 394.5180638451613,
+      "relative_error": 2.190064399746744e-14,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G02-M6.step",
+      "solids": 1,
+      "volume_mm3": 394.5180638451613,
+      "relative_error": 2.190064399746744e-14,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G02-M6.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 394.5180638451529,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G02-M8.step",
+      "solids": 1,
+      "volume_mm3": 588.8130030990802,
+      "relative_error": 2.220397013852318e-14,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G02-M8.step",
+      "solids": 1,
+      "volume_mm3": 588.8130030990802,
+      "relative_error": 2.220397013852318e-14,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G02-M8.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 588.8130030990671,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G05-PIN.step",
+      "solids": 1,
+      "volume_mm3": 373.323628856441,
+      "relative_error": 4.263367237102144e-15,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G05-PIN.step",
+      "solids": 1,
+      "volume_mm3": 373.323628856441,
+      "relative_error": 4.263367237102144e-15,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G05-PIN.FCStd",
+      "solids": 1,
+      "objects": 1,
+      "volume_mm3": 373.3236288564402,
+      "container_pass": true,
+      "app_tested": false
+    },
+    {
+      "file": "cad/step/SCMB-G00-PAIR-DEMO.step",
+      "solids": 34,
+      "volume_mm3": 4693714.837296325,
+      "relative_error": 2.826638514212448e-11,
+      "pass": true
+    },
+    {
+      "file": "compatibility/AP214/SCMB-G00-PAIR-DEMO.step",
+      "solids": 34,
+      "volume_mm3": 4693714.837296325,
+      "relative_error": 2.826638514212448e-11,
+      "pass": true
+    },
+    {
+      "file": "cad/freecad/SCMB-G00-PAIR-DEMO.FCStd",
+      "solids": 34,
+      "objects": 34,
+      "volume_mm3": 4693714.82697015,
+      "container_pass": true,
+      "app_tested": false
+    }
+  ],
+  "STL": [
+    {
+      "file": "print/SCMB-G01-L.stl",
+      "watertight": true,
+      "triangles": 33440,
+      "relative_volume_error": 2.831005609925287e-05
+    },
+    {
+      "file": "print/SCMB-G01-R.stl",
+      "watertight": true,
+      "triangles": 33440,
+      "relative_volume_error": 2.83100650241205e-05
+    },
+    {
+      "file": "print/SCMB-G03-L.stl",
+      "watertight": true,
+      "triangles": 1428,
+      "relative_volume_error": 0.00036799495430270464
+    },
+    {
+      "file": "print/SCMB-G03-R.stl",
+      "watertight": true,
+      "triangles": 1428,
+      "relative_volume_error": 0.00036799495430297883
+    },
+    {
+      "file": "print/bed_ready/SCMB-G01-L-BED.stl",
+      "watertight": true,
+      "triangles": 33440,
+      "relative_volume_error": 2.8323973564559177e-05,
+      "bed_bounds_mm": [
+        [
+          10.0,
+          19.0,
+          0.0
+        ],
+        [
+          190.0,
+          181.0,
+          196.0
+        ]
+      ]
+    },
+    {
+      "file": "print/bed_ready/SCMB-G03-L-BED.stl",
+      "watertight": true,
+      "triangles": 1428,
+      "relative_volume_error": 0.00036802195455754895,
+      "bed_bounds_mm": [
+        [
+          12.0,
+          47.5,
+          0.0
+        ],
+        [
+          188.0,
+          152.5,
+          41.430091857910156
+        ]
+      ]
+    },
+    {
+      "file": "print/bed_ready/SCMB-G01-R-BED.stl",
+      "watertight": true,
+      "triangles": 33440,
+      "relative_volume_error": 2.8322711166499622e-05,
+      "bed_bounds_mm": [
+        [
+          10.0,
+          19.0,
+          0.0
+        ],
+        [
+          190.0,
+          181.0,
+          196.0
+        ]
+      ]
+    },
+    {
+      "file": "print/bed_ready/SCMB-G03-R-BED.stl",
+      "watertight": true,
+      "triangles": 1428,
+      "relative_volume_error": 0.0003680153905660041,
+      "bed_bounds_mm": [
+        [
+          12.0,
+          47.5,
+          0.0
+        ],
+        [
+          188.0,
+          152.5,
+          41.430091857910156
+        ]
+      ]
+    }
+  ],
+  "PDF": [
+    {
+      "file": "drawings/설계도면.pdf",
+      "pages": 4,
+      "text_present": true
+    },
+    {
+      "file": "docs/수정설명서.pdf",
+      "pages": 4,
+      "text_present": true
+    },
+    {
+      "file": "drawings/Motor-LR-1to1-A4.pdf",
+      "pages": 2,
+      "text_present": true
+    },
+    {
+      "file": "drawings/Frame-90x100-1to1-A4.pdf",
+      "pages": 1,
+      "text_present": true
+    }
+  ],
+  "소스문법": [
+    "src/check_design.py",
+    "src/check_print_envelope.py",
+    "src/export_package.py",
+    "src/finalize_package.py",
+    "src/font_paths.py",
+    "src/geometry.py",
+    "src/make_drawings.py",
+    "src/render_preview.py",
+    "src/render_print_bed.py",
+    "src/verify_package.py",
+    "src/write_docs.py",
+    "CHECK_FILES.py",
+    "OPEN_IN_FREECAD.FCMacro"
+  ],
+  "원본": [
+    {
+      "file": "MY1016Z Detailed Reference 1.pdf",
+      "sha256": "7d9c5a6c6a14b73202622a2e451bfb37ce8a383b32d9eb17215f03dc3c08e80d",
+      "matches_recorded_original": true
+    },
+    {
+      "file": "MY1016Z Detailed Reference 2.pdf",
+      "sha256": "cf90a33c714d2b9f93bfebdd6ca4933fd93b2069d0d7d88e886daacecd63e92b",
+      "matches_recorded_original": true
+    },
+    {
+      "file": "MY1016Z Detailed Reference Image.png",
+      "sha256": "4c719699409bd0e4ea458effa884937f2cb0e9bb15d5f530bb19f8cdc7f26b49",
+      "matches_recorded_original": true
+    }
+  ],
+  "FreeCAD_실제앱열기": "미실시",
+  "SolidWorks_실제앱열기": "미실시",
+  "매크로_실제앱실행": "미실시 / 문법 검사만 실시",
+  "RevG_구조해석": "미실시",
+  "실행환경": {
+    "CadQuery": "2.8.0",
+    "OCP": "7.9.3.1"
+  },
+  "출력공간_검사수": 68,
+  "출력공간_통과": true,
+  "기하검사_통과": true,
+  "완료": true
+}

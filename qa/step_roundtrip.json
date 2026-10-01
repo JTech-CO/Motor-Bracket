@@ -1,0 +1,262 @@
+[
+  {
+    "file": "cad/step/SCMB-G01-L.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 1125305.3511237577,
+    "relative_volume_error": 1.0051788835541198e-10,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G01-L.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 1125305.3511237577,
+    "relative_volume_error": 1.0051788835541198e-10,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G03-L.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 106159.90098679643,
+    "relative_volume_error": 1.2268251956081404e-13,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G03-L.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 106159.90098679643,
+    "relative_volume_error": 1.2268251956081404e-13,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G10-L.step",
+    "schema": "AP203",
+    "solids": 12,
+    "volume_mm3": 1236145.2220134987,
+    "relative_volume_error": 5.6014053921042195e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G10-L.step",
+    "schema": "AP214IS",
+    "solids": 12,
+    "volume_mm3": 1236145.2220134987,
+    "relative_volume_error": 5.6014053921042195e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G20-L-MOTOR-DEMO.step",
+    "schema": "AP203",
+    "solids": 17,
+    "volume_mm3": 2346857.411840673,
+    "relative_volume_error": 4.2542836412164116e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G20-L-MOTOR-DEMO.step",
+    "schema": "AP214IS",
+    "solids": 17,
+    "volume_mm3": 2346857.411840673,
+    "relative_volume_error": 4.2542836412164116e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G01-R.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 1125305.3510860393,
+    "relative_volume_error": 7.59241952459824e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G01-R.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 1125305.3510860393,
+    "relative_volume_error": 7.59241952459824e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G03-R.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 106159.90098681278,
+    "relative_volume_error": 3.125320051381631e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G03-R.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 106159.90098681278,
+    "relative_volume_error": 3.125320051381631e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G10-R.step",
+    "schema": "AP203",
+    "solids": 12,
+    "volume_mm3": 1236145.2219879199,
+    "relative_volume_error": 4.0284763619126276e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G10-R.step",
+    "schema": "AP214IS",
+    "solids": 12,
+    "volume_mm3": 1236145.2219879199,
+    "relative_volume_error": 4.0284763619126276e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G20-R-MOTOR-DEMO.step",
+    "schema": "AP203",
+    "solids": 17,
+    "volume_mm3": 2346857.411779207,
+    "relative_volume_error": 1.8780961130038154e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G20-R-MOTOR-DEMO.step",
+    "schema": "AP214IS",
+    "solids": 17,
+    "volume_mm3": 2346857.411779207,
+    "relative_volume_error": 1.8780961130038154e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/00-CAD-TEST-CUBE.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 999.9999999999998,
+    "relative_volume_error": 0.0,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/00-CAD-TEST-CUBE.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 999.9999999999998,
+    "relative_volume_error": 0.0,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G02-M6.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 394.5180638451613,
+    "relative_volume_error": 2.190064399746744e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G02-M6.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 394.5180638451613,
+    "relative_volume_error": 2.190064399746744e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G02-M8.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 588.8130030990802,
+    "relative_volume_error": 2.220397013852318e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G02-M8.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 588.8130030990802,
+    "relative_volume_error": 2.220397013852318e-14,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G05-PIN.step",
+    "schema": "AP203",
+    "solids": 1,
+    "volume_mm3": 373.323628856441,
+    "relative_volume_error": 4.263367237102144e-15,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G05-PIN.step",
+    "schema": "AP214IS",
+    "solids": 1,
+    "volume_mm3": 373.323628856441,
+    "relative_volume_error": 4.263367237102144e-15,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "cad/step/SCMB-G00-PAIR-DEMO.step",
+    "schema": "AP203",
+    "solids": 34,
+    "volume_mm3": 4693714.837296325,
+    "relative_volume_error": 2.826638514212448e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  },
+  {
+    "file": "compatibility/AP214/SCMB-G00-PAIR-DEMO.step",
+    "schema": "AP214IS",
+    "solids": 34,
+    "volume_mm3": 4693714.837296325,
+    "relative_volume_error": 2.826638514212448e-11,
+    "product_count": 1,
+    "external_refs": 0,
+    "ascii_only": true
+  }
+]
